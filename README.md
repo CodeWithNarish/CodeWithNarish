@@ -1,4 +1,32 @@
+# 💫 Hi 👋, I'm Narish
+### 🚀 Full Stack Web Developer | Flutter Developer | MERN Stack Developer | Cross-Platform App Developer | UI/UX Enthusiast from India 🇮🇳
 
+💻 I'm a passionate developer who loves building modern, scalable, and high-performance web and mobile applications. I enjoy turning ideas into real-world products with clean code, premium UI/UX, and efficient backend architecture.
+
+📧 **Email Me 👉** narishcho786@gmail.com for Collaboration, Freelance Projects, Open Source Contributions, or anything tech-related. 😊
+
+- 🔭 **I'm currently working on:** Full Stack Web Applications, Flutter Apps & AI-powered Projects.
+- 🌱 **I'm currently learning:** System Design, Cloud Computing, DevOps, AI Integration & Performance Optimization.
+- 👯 **I'm looking to collaborate on:** Open Source, SaaS Products, Startups & Innovative Web/Mobile Projects.
+- 🤝 **I'm looking for help with:** Cloud Infrastructure, Scaling Applications & Advanced Backend Architecture.
+- 💬 **Ask me about:** Flutter, MERN Stack, Full Stack Web Development, React.js, Node.js, Express.js, MongoDB, Firebase, Supabase, REST APIs & UI/UX Design.
+- 📫 **How to reach me:** jkjavedkh555@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love building premium apps, exploring new technologies, and turning ideas into reality through code.
+
+### 🚀 Tech Focus
+- 🌐 Full Stack Web Development
+- 📱 Cross-Platform Mobile App Development
+- ⚛️ React.js
+- 🚀 Node.js & Express.js
+- 🍃 MongoDB
+- 🔥 Firebase
+- ⚡ Supabase
+- 🎨 Modern UI/UX Design
+- 🤖 AI Integration
+- ☁️ Cloud & DevOps (Learning)
+
+> **"Code. Create. Innovate. Repeat."** 🚀
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toxic_narish) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Narish choudhary ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@neonXcyber) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narishcho786@gmail.com) 
 
