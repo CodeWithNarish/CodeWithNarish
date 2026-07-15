@@ -28,7 +28,7 @@
 
 > **"Code. Create. Innovate. Repeat."** 🚀
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toxic_narish) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Narish choudhary ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@neonXcyber) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narishcho786@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toxic_narish) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@Narish choudhary](https://github.com/CodeWithNarish/) ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@neonXcyber) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narishcho786@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
